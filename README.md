@@ -5,7 +5,7 @@ For study purposes.
 ## Getting Started
 
 - Run `npm install` or `yarn install`.
-- Run `yarn start` and access `http://localhost:3000`.
+- Run `yarn dev` and access `http://localhost:3000`.
 
 ## Built With
 
